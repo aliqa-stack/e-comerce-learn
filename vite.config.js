@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
    
   ],
-   base: '/e-comerce-learn/',
+   base: 'https://aliqa-stack.github.io/e-comerce-learn/',
 })
